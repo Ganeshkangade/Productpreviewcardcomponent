@@ -17,6 +17,7 @@
   }
   
   .left {
+    border-radius: 5px;
     width: 250px;
     height: 440px;
     background-size: cover;
@@ -24,6 +25,7 @@
   }
   
   .right {
+    border-radius: 10px;
     width: 250px;
     height: 440px;
     background-color: white;
@@ -110,6 +112,7 @@
 
   .imp
   {
+    border-radius: 10px;
     height: 440px;
     width: 250px;
   }
@@ -144,6 +147,7 @@
       }
 
       .right{
+        
         margin-left: 5%;
         width: 90%;
         height: auto;
